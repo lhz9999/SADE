@@ -1,6 +1,6 @@
 Statistics for the Dataset
 
-粗粒度数据集
+Triage Dataset
 
 | Department Name              | Data Quantity | Department Name       | Data Quantity |
 | ---------------------------- | ------------- | --------------------- | ------------- |
@@ -12,9 +12,9 @@ Statistics for the Dataset
 | Surgery                      | 25443         | Infectious Diseases   | 1152          |
 | Pediatrics                   | 20684         | Oncology              | 745           |
 
-细粒度数据集
+Pre-diagnosis Dataset
 
-| Department Name                                  | Data Quantity | Department Name                           | 数据数量 |
+| Department Name                                  | Data Quantity | Department Name                           | Data Quantity |
 | ------------------------------------------------ | ------------- | ----------------------------------------- | ---- |
 | Gynecology                                       | 39016         | Otolaryngology                            | 2179 |
 | Traditional Chinese Medicine - Internal Medicine | 31045         | Hepatology                                | 1013 |
